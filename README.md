@@ -273,26 +273,16 @@
 
 ---
 
-<!-- ========================================================= -->
+## 🎯 Development Focus
 
-<!--                    DEVELOPMENT FOCUS                      -->
+<div align="center">
 
-<!-- ========================================================= -->
+<img src="https://img.shields.io/badge/Clean%20Code-2F81F7?style=flat-square&logoColor=white" alt="Clean Code" />
+<img src="https://img.shields.io/badge/Problem%20Solving-6E7681?style=flat-square&logoColor=white" alt="Problem Solving" />
+<img src="https://img.shields.io/badge/Web%20Development-58A6FF?style=flat-square&logoColor=white" alt="Web Development" />
+<img src="https://img.shields.io/badge/Continuous%20Learning-8B949E?style=flat-square&logoColor=white" alt="Continuous Learning" />
 
-<h2 align="center"> Development Focus</h2>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Clean%20Code-00E5FF?style=flat-square" alt="Clean Code" />
-
-  <img src="https://img.shields.io/badge/Problem%20Solving-00E5FF?style=flat-square" alt="Problem Solving" />
-
-  <img src="https://img.shields.io/badge/Web%20Development-00E5FF?style=flat-square" alt="Web Development" />
-
-  <img src="https://img.shields.io/badge/Continuous%20Learning-00E5FF?style=flat-square" alt="Continuous Learning" />
-
-</p>
-
+</div>
 ---
 
 <!-- ========================================================= -->
