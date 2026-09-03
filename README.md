@@ -85,28 +85,24 @@
 <br>
 
 <!-- ========================================================= -->
-
-<!--                    PROFILE VIEWS                          -->
-
+<!--                    PROFILE STATS                          -->
 <!-- ========================================================= -->
 
 <p align="center">
-
-<img
- src="https://komarev.com/ghpvc/?username=MahmudunNabi-N&label=Profile%20Views&color=00E5FF&style=flat"
- alt="Profile Views"
-/>
-
-<img
- src="https://img.shields.io/github/followers/MahmudunNabi-N?label=Followers&style=flat&logo=github"
- alt="GitHub Followers"
-/>
-
-<img
- src="https://img.shields.io/github/stars/MahmudunNabi-N?label=Stars&style=flat&logo=github"
- alt="GitHub Stars"
-/>
-
+  <img
+    src="https://komarev.com/ghpvc/?username=minhazulkader&label=Profile%20Views&color=00E5FF&style=for-the-badge"
+    alt="Profile Views"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/github/followers/minhazulkader?label=Followers&style=for-the-badge&logo=github"
+    alt="GitHub Followers"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/github/stars/minhazulkader?label=Stars&style=for-the-badge&logo=github"
+    alt="GitHub Stars"
+  />
 </p>
 
 ---
