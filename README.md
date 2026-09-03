@@ -273,7 +273,7 @@
 
 ---
 
-## 🎯 Development Focus
+<h2 align="center"> Development Focus <h2>
 
 <div align="center">
 
@@ -283,8 +283,8 @@
 <img src="https://img.shields.io/badge/Continuous%20Learning-8B949E?style=flat-square&logoColor=white" alt="Continuous Learning" />
 
 </div>
----
 
+---
 <!-- ========================================================= -->
 
 <!--                         CONNECT                            -->
